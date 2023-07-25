@@ -1,0 +1,38 @@
+.container{
+    background-color: green;
+    border: none;
+    border-radius: 50px;
+}
+.h1-1{
+    margin-left: 260px;
+}
+.email1{
+    margin-top: 30px;
+    margin-left: 220px;
+    border: none;
+    border-radius: 6px;
+    background-color: lightgreen;
+    padding: 8px;
+}
+.h1-2{
+    margin-left: 245px;
+    margin-top: 40px;
+}
+.password-input-1{
+    border: none;
+    border-radius: 6px;
+    background-color: lightgreen;
+    padding: 8px;
+    margin-top: 30px;
+    margin-left: 220px;
+}
+.button-1{
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  margin-top: 30px;
+  margin-left: 145px;
+  padding: 15px;
+  background-color: rgb(44, 194, 44);
+  width: 50%;
+}
